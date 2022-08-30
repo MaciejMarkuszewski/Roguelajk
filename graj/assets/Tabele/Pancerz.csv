@@ -1,0 +1,12 @@
+SkorzanaZbroja,1,Leather_Armour,,2,1,5,0,0,0,0,0,0,-2
+CwiekowanaZbroja,1,Reinforced_Leather,Armour,2,1,7,0,0,0,0,0,0,-4
+LekkaZelaznaZbroja,1,Light_Iron_Armour,,2,1,9,3,0,0,0,0,-2,-6
+ZelaznaZbroja,1,Iron_Armour,,2,1,14,5,0,0,0,0,-8,-12
+SkorzanyHelm,1,Leather_Helmet,,2,2,2,0,0,0,0,0,0,-1
+ZelaznyHelm,1,Iron_Helmet,,2,2,3,2,0,0,0,0,0,-3
+Kapelusz,2,Hat,,1,2,1,3,0,0,0,0,3,0
+Plaszcz,1,Cape,,1,3,2,0,0,0,0,0,1,0
+PlaszczMaga,3,Mage's_Cape,,1,3,1,0,7,0,0,0,1,4
+ZbrojaZakonuTrzechPaskow,4,Brotherhood_of_The,Three_Stripes'_Armour,2,1,9,3,5,0,0,3,5,-4
+Szata,1,Robe,,1,1,3,0,0,0,0,0,1,0
+AugumentowanaZelaznaZbroja,5,Augumented_Iron,Armour,3,1,15,3,0,3,1,3,-10,-14
